@@ -1,0 +1,9 @@
+[submodule "awesome"]
+	path = awesome
+	url = git@github.com:duhongming1990/awesome.git
+[submodule "awesome-java"]
+	path = awesome-java
+	url = git@github.com:duhongming1990/awesome-java.git
+[submodule "awesome-selfhosted"]
+	path = awesome-selfhosted
+	url = git@github.com:duhongming1990/awesome-selfhosted.git
