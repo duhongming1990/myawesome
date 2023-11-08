@@ -7,3 +7,12 @@
 [submodule "awesome-selfhosted"]
 	path = awesome-selfhosted
 	url = git@github.com:duhongming1990/awesome-selfhosted.git
+[submodule "awesome-python"]
+	path = awesome-python
+	url = git@github.com:duhongming1990/awesome-python.git
+[submodule "awesome-micropython"]
+	path = awesome-micropython
+	url = git@github.com:duhongming1990/awesome-micropython.git
+[submodule "awesome-go"]
+	path = awesome-go
+	url = git@github.com:duhongming1990/awesome-go.git
